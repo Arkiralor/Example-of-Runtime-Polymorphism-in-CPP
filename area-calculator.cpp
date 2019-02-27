@@ -111,7 +111,7 @@ void switch1(int x) //function definition of switch-case function named, "switch
 			o1->area1();
 			break;
 		case 4: //if all three shapes are chosen.
-			cout<<"\nYou have chosen all the shapes. \n";
+			cout<<"\nYou have chosen all given shapes. \n";
 			o1=&o4;
 			o1->entry1();
 			o1->area1();
