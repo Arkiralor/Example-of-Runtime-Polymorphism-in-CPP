@@ -28,7 +28,7 @@ class triangle: public shape //class triangle derived from class shape.
 		void entry1(); //function to enter attributes of triangle i.e, the base and height.
 };
 
-class rectangle: public shape
+class rectangle: public shape //class rectangle derived from class shape.
 {
 	public:
 		void area1(); //function to calculate the area of the rectangle.
