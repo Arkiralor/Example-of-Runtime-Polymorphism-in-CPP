@@ -1,4 +1,4 @@
-//Sample program to test runtime polymorphism parameters.
+//Sample program to test runtime polymorphism parameters using a basic area claculator.
 
 #include<iostream>
 
