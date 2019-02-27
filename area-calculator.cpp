@@ -11,7 +11,7 @@ class shape //declaration of base class.
 	public:
 		float r, b, h, l, w, pi=3.1416; //all possible atrributes in program.
 		virtual void area1()=0; //initial pure virtual function to find the area.
-		virtual void entry1()=0; //initial pure virtual function to take attributes from uer-input.
+		virtual void entry1()=0; //initial pure virtual function to take attributes from user-input.
 };
 
 class circle: public shape //class circle derived from class shape.
